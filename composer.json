@@ -1,0 +1,7 @@
+{
+    "name": "shaunlaughey/crudy",
+    "description": "A MySQL code generator",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+    }
+}

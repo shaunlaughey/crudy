@@ -14,6 +14,7 @@ class {className} {
 	<!-- startBlock(setterFields) -->
 	public function set{uname}(${name}) {
 		$this->{name} = {name}; 
+		return $this;
 	}
 	<!-- endBlock(setterFields) -->
 }
